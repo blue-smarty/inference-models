@@ -1,0 +1,11 @@
+# Hailo generated artifacts
+*.npy
+outputs/
+sample_inputs/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# UI/temp files
+*.npz
